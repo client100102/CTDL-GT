@@ -18,6 +18,7 @@ void doiChoTrucTiep(int arr[], int n)
 		}
 	}
 }
+//ví dụ:
 int main()
 {
 	int arr[] = {1,3,5,7,9,11,14,44,69};
