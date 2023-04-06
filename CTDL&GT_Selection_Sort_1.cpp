@@ -24,6 +24,7 @@ void chonTrucTiep(int arr[], int n)
 		swap(arr[i], arr[min]);
 	}
 }
+//ví dụ:
 int main()
 {
 	int arr[] = {2,5,8,1,0,17,57,69,49};
