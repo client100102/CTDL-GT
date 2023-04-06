@@ -57,7 +57,8 @@ class Queue {
             }
             return arr[dau];
         }
-};
+}
+//ví dụ:
 int main() {
     Queue q;
 
