@@ -10,7 +10,7 @@ int linearSearch(int arr[], int x, int n) {
   }
   return -1;
 }
-
+//ví dụ:
 int main() {
   int arr[] = {2, 4, 0, 1, 9, 10, 14, 17, 22, 27, 38, 45, 56};
   int x = 45;
