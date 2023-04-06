@@ -17,7 +17,7 @@ int timKiemNhiPhan(int arr[], int x, int low, int high) {
     return timKiemNhiPhan(arr, x, mid + 1, high);
   }
 }
-
+//ví dụ:
 int main() {
   int arr[] = {2, 3, 4, 6, 10, 40, 69, 89, 96};
   int x = 69;
